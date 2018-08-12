@@ -1,5 +1,5 @@
 .Header {
-  background-color: var(--header-bg-color);
+  background-color: var(--header-bg);
   border-bottom: var(--sections-separator) solid 5px;
   padding-bottom: 50px;
   padding-top: 25px;
@@ -23,14 +23,14 @@
 }
 
 .Header-name {
-  font-family: 'Lekton', sans-serif;
+  font-family: 'Vidaloka', serif;
   font-size: 2em;
   margin: 0 auto;
   transition: .3s;
 }
 
 .Header-description {
-  font-family: 'Lekton', sans-serif;
+  font-family: 'Vidaloka', serif;
   font-size: 1.1em;
   font-weight: normal;
   margin-top: 0;

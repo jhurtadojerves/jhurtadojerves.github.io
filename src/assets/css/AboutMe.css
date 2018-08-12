@@ -1,13 +1,13 @@
 .About {
   margin-top: 15px;
-  background-color: var(--about-bg-color);
+  /*background-color: var(--secondary-bg);*/
   border-bottom: var(--sections-separator) solid 5px;
   padding-bottom: 75px;
 }
 
 .About-paragraphs {
   margin: auto auto;
-  background-color: var(--paragraphs-bg-color);
+  background-color: var(--secondary-bg);
   width: 90%;
 }
 

@@ -1,6 +1,6 @@
 .Article {
   width: 90%;
-  background: #5f5c5c;
+  background: var(--secondary-bg);
   margin-right: auto;
   margin-left: auto;
   box-shadow: 0 0 35px rgba(0, 0, 0, .7);
@@ -36,7 +36,7 @@
 }
 
 .Article-links a svg {
-  color: #495057;
+  color: var(--icons-color);
   margin: 10px;
   height: 36px;
   width: 36px;
@@ -51,12 +51,15 @@
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #5f5c5c;
+  background-color: var(--secondary-bg);
   box-shadow: 0 0 35px #6ba1b9;
 }
 
 @media (min-width: 800px) {
   .Article img{
     display: inline-block;
+  }
+  .Article-icons {
+    box-shadow: 0 0 35px #000;
   }
 }

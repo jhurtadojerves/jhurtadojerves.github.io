@@ -1,5 +1,5 @@
 .Icon-list a svg {
-  color: #495057;
+  fill: var(--icons-color);
   margin: 10px;
   height: 56px;
   width: 56px;

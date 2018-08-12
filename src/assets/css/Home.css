@@ -1,17 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Lekton');
+@import url('https://fonts.googleapis.com/css?family=Lato|Vidaloka');
 
 :root {
-  --header-bg-color: #6ba1b9;
-  --about-paragraphs-color: #44494f;
-  --paragraphs-bg-color: #dadcdf;
-  --sections-separator: #01688c;
+  --header-bg: #5d99c6;
+  --secondary-bg: #7986cb;
+  --about-paragraphs-color: #000;
+  --paragraphs-bg-color: #eff0f4;
+  --sections-separator: #aab6fe;
   --border-color: var(--sections-separator);
   --footer-bg: var(--sections-separator);
+  --icons-color: #7986cb;
 
 
 }
 
-body {
+p {
+  font-family: 'Lato', sans-serif;
 }
 
 .Home-logo {
