@@ -10,9 +10,6 @@ import AboutMe from '../components/AboutMe'
 import Portfolio from '../components/Portfolio'
 import Footer from '../components/Footer'
 
-
-
-
 /** Data imports */
 import user from '../assets/json/user.json'
 import projects from '../assets/json/projects.json'
