@@ -9,19 +9,19 @@ import '../assets/css/Article.css'
 
 
 const Article = props => {
-  const { id, image, name, description } = props
+  const { id, image, name, description, url, github } = props
   return (
     <article className="Article" key={ id }>
       <div className="Article-links">
         <img src={ image } alt="" />
         <div className="Article-icons">
-          <a href="">
+          <a href={ url } target="_blank">
             <Icon 
               name="open"
               title="Ver demo"
             />
           </a>
-          <a href="">
+          <a href={ github } target="_blank">
             <Icon 
               name="github"
               title="Ver código"
