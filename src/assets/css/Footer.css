@@ -1,0 +1,10 @@
+.Footer {
+  background-color: var(--footer-bg);
+  padding: 1em;
+}
+
+.Footer p span {
+  color: red;
+  font-family: 'Lekton', sans-serif;
+  font-weight: bold;
+}

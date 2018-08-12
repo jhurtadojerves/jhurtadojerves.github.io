@@ -1,0 +1,11 @@
+.Icon-list a svg {
+  color: #495057;
+  margin: 10px;
+  height: 56px;
+  width: 56px;
+}
+
+.Icon-list a svg:hover {
+  transform: scale(1.3);
+  transition: .2s;
+}

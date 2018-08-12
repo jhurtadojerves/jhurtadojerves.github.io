@@ -1,0 +1,49 @@
+.Header {
+  background-color: var(--header-bg-color);
+  border-bottom: var(--sections-separator) solid 5px;
+  padding-bottom: 50px;
+  padding-top: 25px;
+
+}
+
+.Header-container{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header-image{
+  object-fit: cover;
+  border: .5rem solid rgba(255,255,255,.1);
+  border-radius: 50%;
+  margin: 15px auto;
+  height: 100px;
+  width: 100px;
+  transition: .4s;
+}
+
+.Header-name {
+  font-family: 'Lekton', sans-serif;
+  font-size: 2em;
+  margin: 0 auto;
+  transition: .3s;
+}
+
+.Header-description {
+  font-family: 'Lekton', sans-serif;
+  font-size: 1.1em;
+  font-weight: normal;
+  margin-top: 0;
+
+}
+
+@media (min-width: 800px) {
+  .Header-name{
+    font-size: 4em;
+  }
+
+  .Header-image {
+    height: 175px;
+    width: 175px;  
+  }
+}

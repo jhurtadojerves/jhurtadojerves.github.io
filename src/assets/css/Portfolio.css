@@ -1,0 +1,21 @@
+.Portafolio-container {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-auto-rows: auto;
+  gap: 50px 0;
+  width: 90%;
+  margin: auto auto;
+  margin-bottom: 25px;
+  grid-template-columns: 1fr;
+  padding-top: 50px;
+}
+
+@media (min-width: 1200px) {
+  .Portafolio-container{
+    width: 80%;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Portafolio-container article:nth-child(2) {
+    margin-top: 20px;
+  }
+}

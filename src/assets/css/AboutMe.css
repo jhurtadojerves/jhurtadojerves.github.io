@@ -1,0 +1,31 @@
+.About {
+  margin-top: 15px;
+  background-color: var(--about-bg-color);
+  border-bottom: var(--sections-separator) solid 5px;
+  padding-bottom: 75px;
+}
+
+.About-paragraphs {
+  margin: auto auto;
+  background-color: var(--paragraphs-bg-color);
+  width: 90%;
+}
+
+.About-paragraphs p {
+  color: var(--about-paragraphs-color);
+  font-size: 1.4em;
+  text-align: justify;
+  margin: auto auto;
+  padding: 25px;
+}
+
+
+
+/* Media queries */
+
+@media (min-width: 1200px) {
+  .About-paragraphs {
+    width: 75%;
+  }
+}
+

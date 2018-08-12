@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Spells 'Harry Latino'",
+    "description": "Una aplicación para consultar los hechizos del juego de rol de HarryLatino.org. Creada con Django y django rest framework para exponer el API.",
+    "image": "https://i.imgur.com/MV3oYsF.png",
+    "url": "https://hechizos.herokuapp.com/",
+    "github": "https://github.com/jhurtadojerves/hechizos-hl"
+  },
+  {
+    "id": "2",
+    "name": "Spells with React",
+    "description": "Una página web que consume una API de hechizos y que los muestra con Reactjs",
+    "image": "https://i.imgur.com/1Fz9SMm.png",
+    "url": "https://juliohurtado.xyz/spells-react/",
+    "github": "https://github.com/jhurtadojerves/spells-react"
+  },
+  {
+    "id": "3",
+    "name": "Platzi Podcast",
+    "description": "Aplicación creada para el curso de Nextjs de Platzi",
+    "image": "https://i.imgur.com/QF6OPag.png",
+    "url": "https://podcasts-qvwxyhsfac.now.sh/",
+    "github": "https://github.com/jhurtadojerves/platzi-podcasts"
+  },
+  {
+    "id": "4",
+    "name": "Turismo Macas",
+    "description": "Proyecto de Grado desarrollado para el Municipio del Cantón Morona. Un sistema en django con un motor de inteligencia artificial",
+    "image": "https://i.imgur.com/ME7Ooq8.png",
+    "url": "https://turismomacas.herokuapp.com/",
+    "github": "https://github.com/jhurtadojerves/sertum"
+  }
+]
