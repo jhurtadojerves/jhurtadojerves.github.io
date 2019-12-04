@@ -1,6 +1,6 @@
 {
-  "short_name": "Portafolio",
-  "name": "Portafolio de Julio Hurtado Jerves",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
