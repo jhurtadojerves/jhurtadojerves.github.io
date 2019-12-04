@@ -1,7 +1,7 @@
 {
   "name": "Julio Hurtado",
-  "description": "Computer Systems Engineer. Django Backend Developer. React Frontend Developer",
-  "image": "https://i.imgur.com/ft2KwPs.jpg",
+  "description": "Computer Systems Engineer and Django Backend Developer in Gobierno Municipal del Cantón Morona.",
+  "image": "https://i.imgur.com/8TnULrE.jpg",
   "about": {
     "title": "Sobre  mi",
     "paragraphs": [
@@ -26,17 +26,17 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/jhurtadojerves",
+        "url": "https://twitter.com/jhurtadojerves/",
         "displayName": "Julio Hurtado Jerves"
       },
       {
         "name": "github",
-        "url": "https://github.com/jhurtadojerves",
+        "url": "https://github.com/jhurtadojerves/",
         "displayName": "Julio Hurtado Jerves"
       },
       {
         "name": "linkedin",
-        "url": "https://github.com/jhurtadojerves",
+        "url": "https://www.linkedin.com/in/julio-hurtado-7558ab9b/",
         "displayName": "Julio Hurtado Jerves"
       }
     ]
